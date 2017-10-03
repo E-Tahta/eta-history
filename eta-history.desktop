@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Eta-History
+Name[tr]=Eta-Geçmiş
+Type=Application
+Comment=Displays users login and logut logs.
+Comment[tr]=Kullanıcı giriş ve çıkış kayıtlarını görüntüler.
+Terminal=false
+Exec=/usr/bin/eta-history
+Icon=/usr/share/eta/eta-history/icon/history.svg
+Categories=Qt;Utility;
+GenericName=
