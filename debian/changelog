@@ -1,3 +1,9 @@
+eta-history (0.2.1) unstable; urgency=medium
+
+  * Fixed control file
+
+ -- Hikmet Baş <hikmet.bas@pardus.org.tr>  Thu, 05 Oct 2017 07:03:12 +0000
+
 eta-history (0.2.0) unstable; urgency=medium
 
   * Initial release.
