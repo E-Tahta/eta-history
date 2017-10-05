@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9), libc6, libgcc1, libgl1-mesa-glx | libgl1, libqt
 Standards-Version: 3.9.6
 Homepage: http://pardus.org.tr
 
-Package: eta-help
+Package: eta-history
 Architecture: amd64
 Depends: ${shlibs:Depends}, 
     ${misc:Depends},
