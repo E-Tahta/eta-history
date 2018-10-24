@@ -1,3 +1,9 @@
+eta-history (0.2.2) unstable; urgency=medium
+
+  * Fix build dependency and Pardus CI integration
+
+ -- Hikmet Baş <hikmet.bas@pardus.org.tr>  Wed, 24 Oct 2018 09:15:20 +0000
+
 eta-history (0.2.1) unstable; urgency=medium
 
   * Fixed control file
